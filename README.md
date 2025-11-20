@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=server-123&fontSize=50&fontColor=FFFFFF&fontAlign=75&fontAlignY=35)
 
 # Tech / Tools
-<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
 
 
 <!--
