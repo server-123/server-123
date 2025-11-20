@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=server-123&fontSize=50&fontColor=FFFFFF&fontAlign=75&fontAlignY=35)
 
-## Hi there 👋
+## Tech & Tools
 
 <!--
 **server-123/server-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
