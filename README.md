@@ -7,9 +7,9 @@
 |:--|:--|:--:|
 | 2025.03 ~ | 동국대학교 첨단융합대학 컴퓨터·AI학부 학부과정 | |
 | 2025.07 ~ 11 | 창의문제해결 프로젝트 CAI Roadmap 백엔드 개발 (NEXCODE) | |
-| 2025.09 ~ 11 | Raspberry Pi Code Club Projects — SW교육기부단 (NEXCODE) | 🏅 이사장상 |
+| 2025.09 ~ 11 | Raspberry Pi Code Club Projects — SW교육기부단 (NEXCODE) | 🏅이사장상 |
 | 2025.11.22 ~ 23 | 동국대학교 첨단융합대학 X-THON 해커톤 NEXCODE팀 애플리케이션/백엔드 개발 (NEXCODE) | |
-| 2026.01 ~ 02 | IoTCOSS 세종대 사물인터넷 플랫폼 활용 개발자 챌린지 (NEXCODE) | 🏅 장려상 |
+| 2026.01 ~ 02 | IoTCOSS 세종대 사물인터넷 플랫폼 활용 개발자 챌린지 (NEXCODE) | 🏅장려상 |
 | 2026.04 ~ 05 | 동국대학교 첨단융합대학 컴퓨터·AI학부 축제 주점 웹 게임 서비스 PM 및 개발 | |
 | 2026.04 ~ 07 | Raspberry Pi Code Club Projects — SW교육기부단 (NEXCODE) | |
 
