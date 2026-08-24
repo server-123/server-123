@@ -7,7 +7,7 @@
 Raspberry Pi Code Club Projects NEXCODE팀 SW교육기부단 (2025.09.22 ~ 2025.11.14)<br>
 동국대학교 첨단융합대학 X-THON 해커톤 NEXCODE팀 애플리케이션/백엔드 개발 (2025.11.22 ~ 2025.11.23)<br>
 IoTCOSS 세종대 사물인터넷 플랫폼 활용 개발자 챌린지 NEXCODE팀 장려상 수상 (2026.01.05 ~ 2026.02.02)<br>
-동국대학교 첨단융합대학 컴퓨터·AI학부 축제 주점 웹 게임 서비스 PM 및 개발 (2026.04.30 ~ 2026.05.27)
+동국대학교 첨단융합대학 컴퓨터·AI학부 축제 주점 웹 게임 서비스 PM 및 개발 (2026.04.30 ~ 2026.05.27)<br>
 Raspberry Pi Code Club Projects NEXCODE팀 SW교육기부단 (2026.04 ~ 2026.07)
 # 💻 Tech / Tools 🛠️
 <div align="center">
